@@ -1,0 +1,21 @@
+name = "FluidStructureInteraction"
+uuid = "6d0a0836-3ed7-494f-9f81-4436518ff207"
+authors = ["ShiWeiHuH <hushiwei@imech.ac.cn>, Mingshuo Han <hanmingshuo@imech.ac.cn>, Tianbai Xiao <tianbaixiao@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
+KitBase = "86eed249-3a28-466f-8d3a-596821e1af9a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+Peridynamics = "4dc47793-80f3-4232-b30e-ca78ca9d621b"
+PointNeighbors = "1c4d5385-0a27-49de-8e2c-43b175c8985c"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
+WriteVTK = "64499a7a-5c06-52f2-abe2-ccb03c286192"
+
+[compat]
+Dates = "1.11.0"
+Peridynamics = "0.4.0"
