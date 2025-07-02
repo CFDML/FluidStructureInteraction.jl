@@ -1,19 +1,10 @@
 # FluidStructureInteraction.jl
 
+![CI](https://img.shields.io/github/actions/workflow/status/CFDML/FluidStructureInteraction.jl/ci.yml?branch=main)
+[![License](https://img.shields.io/github/license/CFDML/FluidStructureInteraction.jl)](LICENSE)
 [![Julia 1.6+](https://img.shields.io/badge/Julia-1.6+-9558B2.svg)](https://julialang.org/)
-[![License](https://img.shields.io/github/license/username/FluidStructureInteraction.jl)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/username/FluidStructureInteraction.jl)](https://github.com/username/FluidStructureInteraction.jl/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/username/FluidStructureInteraction.jl)](https://github.com/username/FluidStructureInteraction.jl/commits/main)
-[![Issues](https://img.shields.io/github/issues/username/FluidStructureInteraction.jl)](https://github.com/username/FluidStructureInteraction.jl/issues)
 
-**High-Performance Computational Framework for Fluid-Structure Multiphysics Coupling**
-
-*Authors: Shiwei Hu, Mingshuo Han, Tianbai Xiao, Yonghao Zhang*  
-*Contact: [hushiwei@imech.ac.cn](mailto:hushiwei@imech.ac.cn)*
-
----
-
-## Program Overview
+## Overview
 This computational framework is specifically designed for high-fidelity modeling of strongly coupled interactions between hypersonic flows and deformable structures with fracture mechanics. Its core capabilities include:
 
 - **High-speed fluid-structure coupling**: Resolution of strongly coupled interactions between compressible hypersonic flows and nonlinear structural responses
